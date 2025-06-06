@@ -1,5 +1,4 @@
-# LeahEngine 3.0.0 
-<a href="https://github.com/TAGMONKE/LeahEngine/releases/3.0.0">
+# LeahEngine 3.0.0 <a href="https://github.com/TAGMONKE/LeahEngine/releases/3.0.0">
   <img src="https://img.shields.io/github/downloads/TAGMONKE/LeahEngine/LeahEngine?style=for-the-badge">
 </a>
 <a href="https://github.com/TAGMONKE/LeahEngine/blob/main/Documentation.md">

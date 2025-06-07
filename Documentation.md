@@ -1,2 +1,2 @@
-# Hello world :3
-e
+# Package installing
+There are stick packages to open up and download such as Photon+.
